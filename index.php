@@ -7,6 +7,6 @@
 <?php
 echo "Hello World!";
 ?>
-
+  <a href="abc.html">go to page 2</a>
 </body>
 </html>
